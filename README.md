@@ -20,7 +20,7 @@
  
 ## Bonus 
 * 2pts dont use nested callbacks  
-* 
+  
 ##Rubric:
   * Async Handling: 4pts
   * Use of fs: 2pts
