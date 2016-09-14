@@ -12,12 +12,16 @@
   * write a question and observation on canvas
 
 ## Description:
-* For this assignment you will need to read three files and console log the first 8 bytes in hex of each file.  
+* For this assignment you will need to read three files and console log the first 8 bytes in hex of each file.
+ * hint use `toString` docs
 * Also, you must guarantee that three files are read and console logged in the order `'one.txt', 'two.txt', 'three.txt'` regardless of file size. 
-* You can use any method of handling async except nested callback. aka. dont use nested calls to `fs.readFile` with anynomus function callbacks
 * You will need to write tests that gaurantee that the files are logged in order.
 * You will also need to look up and implement async testing, making sure that you are not getting "false positives"(tests that are passing but shouldn't be). 
+ * hint read mocha docs    
  
+## Bonus 
+* 2pts dont use nested callbacks  
+* 
 ##Rubric:
   * Async Handling: 4pts
   * Use of fs: 2pts
