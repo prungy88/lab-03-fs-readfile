@@ -1,7 +1,6 @@
 ![cf](https://i.imgur.com/7v5ASc8.png) lab-03-fs-async
 ======
 
-[![Stories in Ready](https://badge.waffle.io/codefellows/seattle-javascript-401n1.svg?label=ready&title=Ready)](http://waffle.io/codefellows/seattle-javascript-401n1) [![Build Status](https://travis-ci.org/codefellows-seattle-javascript-401n1/lab-03-fs-async.svg?branch=master)](https://travis-ci.org/codefellows-seattle-javascript-401n1/lab-03-fs-async)
 
 ## To Submit this Assignment
   * fork this repository
