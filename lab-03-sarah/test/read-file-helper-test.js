@@ -12,8 +12,3 @@ describe('testing read-file-helper', function() {
     });
   });
 });
-//
-// readFileHelper(function(hexArray){
-//   console.log('hexArray', hexArray);
-//   // assert goes here
-// });
